@@ -3,13 +3,9 @@
   padding: 0;
   margin: 0;
   overflow: hidden;
-  background: black;
+  /* background: #6d69db; */
+  /* background: #ee4747; */
 }
-
-/* .main{
-  display: flex;
-  flex-direction: column;
-} */
 
 a{
   position: absolute;
@@ -18,6 +14,14 @@ a{
   font-family: 'Montserrat';
   left: 45vw;
   text-decoration: none;
+}
+
+.model{
+  color: aliceblue;
+  position: absolute;
+  bottom: 10%;
+  font-family: 'Montserrat';
+  left: 80vw;
 }
 
 h1{
